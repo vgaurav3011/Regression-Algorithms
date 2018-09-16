@@ -16,5 +16,27 @@ Ridge Regression Coefficients:
 <br/>
 ![alt tag](https://github.com/vgaurav3011/Regression-Algorithms/blob/master/Ridge_Regression_modal_coefficients.png)
 <br/>
+Lasso Regression Residual Plot:
+<br/>
+![alt tag](https://github.com/vgaurav3011/Regression-Algorithms/blob/master/Lasso_Regression_ResPlot.png)
+<br/>
+Lasso Regression Coefficients:
+<br/>
+![alt tag](https://github.com/vgaurav3011/Regression-Algorithms/blob/master/Lasso_Regression_Coefficient.png)
+<br/>
+Elastic Net Regression Residual Plot:
+<br/>
+![alt tag](https://github.com/vgaurav3011/Regression-Algorithms/blob/master/ElasticNet_ResPlot.png)
+<br/>
+Elastic Net Regression Coefficients:
+<br/>
+![alt tag](https://github.com/vgaurav3011/Regression-Algorithms/blob/master/Coefficients_ElasticReg.png)
+<br/>
+Clearly, Elastic Ridge Regression works the best in case of large datasets combining L1 and L2 Regularization and giving a suitable output with minimal error compared to other Regression Algorithms.
+
+
+
+
+
 
 
